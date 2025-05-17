@@ -1,0 +1,100 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Pytest cache
+.pytest_cache/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Env files
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS
+.DS_Store
+
+# Images or media uploads (optional, if dynamic)
+media/
+uploads/
+
+# Static collected files (Django)
+staticfiles/
+
+# Heroku
+*.sqlite3
+*.pyc
+*.pyo
+
+# Node modules (if using npm/yarn for assets)
+node_modules/
+
+# Compiled frontend files
+/public/
+*.map
+
+# JSON metadata if dynamically generated
+*.json
+
+# Ignore secret keys or config
+secrets.json
+config.json
+
