@@ -14,7 +14,7 @@
   },
   {
     "title": "Customer Segmentation",
-    "description": "Segmented customers using K-means clustering for targeted marketing.",
+    "description": "Used clustering techniques to group customers based on purchasing behavior and demographics. Enabled personalized marketing, enhanced customer experience, and increased overall business efficiency.",
     "technologies": [
       "Python",
       "Scikit-Learn",
@@ -26,7 +26,7 @@
   },
   {
     "title": "Churn Analysis",
-    "description": "Analyzed customer churn and built retention strategies.",
+    "description": "Analyzed customer behavior patterns to identify factors leading to churn. Built predictive models to proactively retain at-risk customers, improving retention strategies and business decision-making.",
     "technologies": [
       "Python",
       "XGBoost",
