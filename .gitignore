@@ -98,3 +98,34 @@ node_modules/
 secrets.json
 config.json
 
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Deployment
+*.log
+*.sqlite3
+instance/
+
+# Python egg
+*.egg-info/
+*.egg
+
+# Others
+*.db
+*.bak
